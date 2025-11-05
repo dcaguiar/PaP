@@ -22,7 +22,6 @@ def last(list):
 def fib(n):
     if n == 0: return 0
     return fib() + fib()
-
 #
 #
 #
